@@ -1,0 +1,15 @@
+#Principal {
+    border: solid 1px;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    background: lightcyan;
+}
+body{
+    background: rgb(151, 179, 255);
+}
+
+h1,h2,h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(55, 55, 119);
+}
